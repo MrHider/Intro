@@ -4,3 +4,7 @@
 
 Debug.Log("Hello");  These print to the console
 
+number variables called with int for integer
+
+if (Input.GetKeyDown("up")){  --> looks for an input of a specific button being pushed
+
